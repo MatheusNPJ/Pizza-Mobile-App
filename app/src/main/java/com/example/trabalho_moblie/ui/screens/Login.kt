@@ -1,4 +1,4 @@
-package com.example.trabalho_moblie.ui.theme.views
+package com.example.trabalho_moblie.ui.screens
 import android.widget.Toast
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background

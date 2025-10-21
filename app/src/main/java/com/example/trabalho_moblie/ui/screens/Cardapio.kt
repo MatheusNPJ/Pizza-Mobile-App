@@ -1,4 +1,4 @@
-package com.example.trabalho_moblie.ui.theme.views
+package com.example.trabalho_moblie.ui.screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
