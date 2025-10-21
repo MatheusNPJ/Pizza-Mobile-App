@@ -9,10 +9,10 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.example.trabalho_moblie.ui.theme.views.Cardapio
-import com.example.trabalho_moblie.ui.theme.views.Index
-import com.example.trabalho_moblie.ui.theme.views.Login
-import com.example.trabalho_moblie.ui.theme.views.Sessao
+import com.example.trabalho_moblie.ui.screens.Cardapio
+import com.example.trabalho_moblie.ui.screens.Index
+import com.example.trabalho_moblie.ui.screens.Login
+import com.example.trabalho_moblie.ui.screens.Sessao
 
 
 class MainActivity : ComponentActivity() {
